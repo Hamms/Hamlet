@@ -1,0 +1,13 @@
+ANNOUNCER,sofa,Alex
+BERNARDO,silvia,Bruce
+FRANCISCO,victoria,Fred
+HORATIO,victoria,Junior
+MARCELLUS,latraviata,Bruce
+CLAUDIUS,pizza,Bruce
+CORNELIUS,mocha,Ralph
+LAERTES,tegula,Ralph
+POLONIUS,latraviata,Ralph
+HAMLET,silvia,Fred
+GERTRUDE,roma,Victoria
+OPHELIA,musca,Agnes
+GHOST,area,Albert
